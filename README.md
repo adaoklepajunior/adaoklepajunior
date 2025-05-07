@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hello! Welcome to my GitHub Profile
 
-<!--
-**adaoklepajunior/adaoklepajunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm a passionate learner and aspiring developer based in the United States.  
+Currently, I'm diving into **Python** and web development with **HTML**, **CSS**, and **JavaScript**.  
+I enjoy building practical projects and sharing knowledge along the way.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests
+
+- 💻 Programming (Python, Web Development)  
+- 🌱 Learning new technologies  
+- 🚀 Building side projects  
+- 💡 Exploring creative ideas  
+
+## My Current Focus
+
+I'm working on a project called **RemindMe**, a service that helps people remember important dates and suggests gift ideas through affiliate links.  
+Check it out!
+
+## Let's Connect
+
+- 🌐 [Instagram: @remindme_project](https://www.instagram.com/remindme_project)  
+- ✉️ [Email: klepa.geral@gmail.com](mailto:klepa.geral@gmail.com)  
+
+Thanks for visiting! 😊
+
